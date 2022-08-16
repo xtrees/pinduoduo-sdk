@@ -24,7 +24,7 @@
     },
     "require": {
         "php": "^7.0||^8.0",
-        "hanson/foundation-sdk": "dev-master",
+        "xtrees/foundation-sdk": "dev-master",
         "ext-json": "*"
     }
 }
